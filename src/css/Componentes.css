@@ -1,0 +1,7 @@
+
+h1{
+    font-family: Helvetica;
+    color:lightseagreen;
+    font-weight: lighter;
+    text-shadow: 1px 1px 0px rgb(29, 29, 29),2px 2px 0px rgb(29, 29, 29),3px 3px 1px rgb(29, 29, 29);
+}
